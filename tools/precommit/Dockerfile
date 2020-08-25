@@ -11,7 +11,6 @@ RUN export DEBIAN_FRONTEND=noninteractive DEBCONF_NONINTERACTIVE_SEEN=true && \
     git \
     less \
     npm \
-    make \
     python3 \
     python3-pip \
     python3-wheel \
